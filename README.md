@@ -6,3 +6,5 @@ My acquired certificate can be viewed [here](https://courses.edx.org/certificate
 In this repository you can find the final project of this course, which is my version of a legendary game "Space Invaders".
 
 [https://download.racket-lang.org/](https://download.racket-lang.org/)
+
+Set Language to 'Beginning Student With List Abbreviations' in DrRacket if you want to try my game.
